@@ -16,4 +16,4 @@ The **Steering Text** project demonstrates how to use steering behaviors to crea
 
 ## Source
 
-This project is a tutorials from [The Coding Train](https://www.youtube.com/@TheCodingTrain) by Daniel Shiffman.
+This project is a tutorial from [The Coding Train](https://www.youtube.com/@TheCodingTrain) by Daniel Shiffman.

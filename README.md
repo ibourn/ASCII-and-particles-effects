@@ -13,7 +13,7 @@ To get started with the projects in this repository, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ai-javascript-demo.git
+   git clone https://github.com/ibourn/ASCII-and-particles-effects.git
    ```
 
 2. Run the folder's `index.html` with Live Server in VSCode:
